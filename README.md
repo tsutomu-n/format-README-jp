@@ -407,23 +407,33 @@ ___
 ```
 [sabaka.net](http://sabaka.net)
     
-[サバカ(DOT)ネット]:http://sabaka.net
+[sabaka(DOT)net]:http://sabaka.net
     
 [:arrow_up:目次](#目次)
 ____
 ## 画像を挿入する
+組み合わせの説明 
+`![代替テキスト](画像のアドレス "タイトル")
+`
+例：
 ```
-![オルトテキスト](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Ork")
+![Room.png](画像：Room.pngのアドレス "Room")
 ```
-![Alt-text](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Ork")
+![Room.png](画像：Room.pngのアドレス "Room")
 
 ### オプション：
 #### 画像付きYouTubeクリップへのリンクの挿入
-組み合わせの説明 `[![Alt-text]](画像の前のアドレス)](YouTubeページへのリンク)`.
-例
-```[![Here text](https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg)](https://youtu.be/RHPYGwVQB2o)``'.
-何が見えるか
-[[ここのテキスト](https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg)](https://youtu.be/RHPYGwVQB2o)
+組み合わせの説明 `[![代替テキスト]](画像の前のアドレス)](YouTubeページへのリンク)`
+
+`
+[![代替テキスト](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+`
+
+例:
+```[![Google — Year in Search 2022](https://img.youtube.com/vi/4WXs3sKu41I/0.jpg)](https://youtu.be/4WXs3sKu41I)```
+
+何が見えるか:
+[![Google — Year in Search 2022](https://img.youtube.com/vi/4WXs3sKu41I/0.jpg)](https://youtu.be/4WXs3sKu41I)
         
 [:arrow_up:目次](#目次)
 ____
@@ -442,7 +452,7 @@ ____
 **WARNING:** 表のテキストで記号 "縦線 - `|`"を使用する必要がある場合、HTML-code* `&#124;`の組み合わせで置き換える必要があります。    
 *ASCII や UTF コードを使用することができます。
 
-**例
+**例**
 ```
 | 指定|説明|正規表現の例|
 |----:|:----:|:----------|
