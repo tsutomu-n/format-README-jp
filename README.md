@@ -3,22 +3,22 @@ README.mdはGitHub上のプロジェクトの説明に使われ、マークダ�
 
 ## 目次
 
-0.[セパレーター](#セパレーターダッシュ)
-1.[見出し](#Headings)
-2.[テキスト選択で作業](#テキスト選択で作業)
-3.[絵文字を使う](#Use-emoji-emoji)
-4.[引用をテキストで使う](#Use-citations-in-text)
-5.[コードハイライト](#Code-highlighting)
-6.[リスト](#Lists)
-    1.[マーク](#マーク)
-    2.[番号付き](#番号付き)
-    3.[混合リスト](#Mixed-Lists)
-    4.[タスクリスト](#タスクリスト)
-7.[リンク](#リンク)
-8.[画像の挿入](#Insert-Image)
-9.[表の挿入](#Insert-Tables)
-10.[Mermaid.jsチャート](#diagrams-mermaidjs)
-11.[アドイン](https://github.com/GnuriaN/format-README/blob/master/Дополнения.md)
+0. [セパレーター](#セパレーターダッシュ)
+1. [見出し](#Headings)
+2. [テキスト選択で作業](#テキスト選択で作業)
+3. [絵文字を使う](#Use-emoji-emoji)
+4. [引用をテキストで使う](#Use-citations-in-text)
+5. [コードハイライト](#Code-highlighting)
+6. [リスト](#Lists)
+    1. [マーク](#マーク)
+    2. [番号付き](#番号付き)
+    3. [混合リスト](#Mixed-Lists)
+    4. [タスクリスト](#タスクリスト)
+7. [リンク](#リンク)
+8. [画像の挿入](#Insert-Image)
+9. [表の挿入](#Insert-Tables)
+10. [Mermaid.jsチャート](#diagrams-mermaidjs)
+11. [アドイン](https://github.com/GnuriaN/format-README/blob/master/Дополнения.md)
     
 ## セパレーター
 を使用する場合
