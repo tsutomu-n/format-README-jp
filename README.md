@@ -112,7 +112,7 @@ ____
 ```
 :white_check_mark: もう終わっています。
 
-:negative_squared_cross_mark:やりません。
+:negative_squared_cross_mark: やりません。
 
 :black_square_button: やるかやらないか、それが問題だ。    
 ```
@@ -147,47 +147,16 @@ ___
 
 文字列内の単語やフレーズをハイライトしたい場合は、シングル・バッククオート (`) を使用します：
 
-    この`単語`がハイライトされます
+この`単語`がハイライトされます
 
 ブロック単位でハイライトするには、三重引用符を使う：
 
-    ```
+ ```
         以下のようになります。
         広告
-    ```
+```
 
 さらに、最初の3つの引用符の後に指定することで、ブロック内でコード言語を指定することができます：
-
-    ```html
-        <input type="text">
-    ```
-
-    ```css
-        ボディ
-            margin: 0；
-            padding: 0；
-        }
-    ```
-
-    ```php
-        <?php phpinfo();?
-    ```
-
-`C#`のブロック例：
-
-```C#
-MarkdownSharp.Extensions.Malを使用しています；
-を使用しています；
-
-Markdown mark = new Markdown()；
-
-// MALのショート・リンク
-// http://myanimelist.net/people/413/Kitamura_Eri => mal://Kitamura_Eri
-mark.AddExtension(new Articles())；
-mark.AddExtension(new Profile())；
-
-mark.Transform(text)；
-```
 
 `Python`のブロック例：
 ```Python
