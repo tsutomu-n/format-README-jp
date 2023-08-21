@@ -77,6 +77,17 @@ ____
 ____
 ## テキスト選択の操作
 
+`*` や `_` を使うと、**`太字`** や *`斜体`* にすることができます。
+```
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+```
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -85,59 +96,24 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-```
-~~テキストを線引きする~~
-```
-~~テキストを線引きする~~
-
-また、`*` や `_` を使うと、**`太字`** や *`斜体`* にすることができます。
-
-```
-テキストを**太字(ボールド)**にする。
-```
-テキストを**太字(ボールド)**にする。
-
-```
-*イタリック体*
-```
-*イタリック体*
-
-```
-*** 太字イタリック体***
-```
-*** 太字イタリック体***
-
-```
-__太字テキスト__
-```
-__太字テキスト__
-
-```
-_斜体のテキスト(イタリック)_
-```
-_斜めのテキスト(イタリック)_
-
-```
-___太字の斜体テキスト___
-```
-___太字の斜体テキスト___
-
-```
-~~*__変なテキスト__*~~
-```
-~~*__変なテキスト__*~~
     
 [:arrow_up:目次](#目次)
 ____
 ## 絵文字を使おう
 テキスト自体に絵文字を使うことができます。例えばこんな風に書いてみましょう：
+
 :white_check_mark:これはすでに行われました。
+
 :negative_squared_cross_mark：やりません。
+
 :black_square_button: やるかやらないか、それが問題だ。    
+
 原文では次のようになっています（行末にスペースが4つあるので、改行されます）：
 ```
 :white_check_mark: もう終わっています。
+
 :negative_squared_cross_mark: やりません。
+
 :black_square_button: やるかやらないか、それが問題だ。    
 ```
 
